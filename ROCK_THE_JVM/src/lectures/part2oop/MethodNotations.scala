@@ -17,6 +17,7 @@ object MethodNotations extends App {
   val tom = new Person("Tom","Fight Club")
   println(mary hangoutWith tom)
   println(mary())
+  //apply method called
 
 
 
